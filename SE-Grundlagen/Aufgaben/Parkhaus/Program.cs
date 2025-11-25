@@ -39,6 +39,10 @@
                 Console.WriteLine($"Marke: {auto.Marke}, Farbe: {auto.Farbe}, Kennzeichen: {auto.Kennzeichen}");
 
             }
+            Console.WriteLine("Nuutze irgendeine Pipline");
+            Console.ReadKey();
+
+
         }
     }
 }
