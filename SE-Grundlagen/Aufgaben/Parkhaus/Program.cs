@@ -43,6 +43,10 @@
             Console.ReadKey();
 
 
+
+            Console.WriteLine("Drücken Sie eine Taste zum Beenden...");
+            Console.ReadKey();
+
         }
     }
 }
