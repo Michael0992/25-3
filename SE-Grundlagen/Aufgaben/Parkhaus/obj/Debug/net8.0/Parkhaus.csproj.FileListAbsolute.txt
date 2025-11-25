@@ -1,0 +1,14 @@
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\bin\Debug\net8.0\Parkhaus.exe
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\bin\Debug\net8.0\Parkhaus.deps.json
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\bin\Debug\net8.0\Parkhaus.runtimeconfig.json
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\bin\Debug\net8.0\Parkhaus.dll
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\bin\Debug\net8.0\Parkhaus.pdb
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\obj\Debug\net8.0\Parkhaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\obj\Debug\net8.0\Parkhaus.AssemblyInfoInputs.cache
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\obj\Debug\net8.0\Parkhaus.AssemblyInfo.cs
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\obj\Debug\net8.0\Parkhaus.csproj.CoreCompileInputs.cache
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\obj\Debug\net8.0\Parkhaus.dll
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\obj\Debug\net8.0\refint\Parkhaus.dll
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\obj\Debug\net8.0\Parkhaus.pdb
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\obj\Debug\net8.0\Parkhaus.genruntimeconfig.cache
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Parkhaus\obj\Debug\net8.0\ref\Parkhaus.dll
