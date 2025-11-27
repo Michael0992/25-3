@@ -7,9 +7,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aufgaben", "Aufgaben", "{02
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unterricht", "Unterricht", "{DD7502C4-FFF6-4B5A-B400-6BA0A7B46E22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parkhaus", "Aufgaben\Parkhaus\Parkhaus.csproj", "{F1F9114E-9852-436B-9D5B-BB414508E0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personalverwaltung", "Personalverwaltung\Personalverwaltung.csproj", "{C8B20807-B144-498A-95F7-303DCC728ABC}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F9114E-9852-436B-9D5B-BB414508E0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F9114E-9852-436B-9D5B-BB414508E0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F9114E-9852-436B-9D5B-BB414508E0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F9114E-9852-436B-9D5B-BB414508E0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B20807-B144-498A-95F7-303DCC728ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B20807-B144-498A-95F7-303DCC728ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B20807-B144-498A-95F7-303DCC728ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B20807-B144-498A-95F7-303DCC728ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F1F9114E-9852-436B-9D5B-BB414508E0FF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C8B20807-B144-498A-95F7-303DCC728ABC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F3AAB8DD-B8F2-440F-9B65-F766A3EA8360}

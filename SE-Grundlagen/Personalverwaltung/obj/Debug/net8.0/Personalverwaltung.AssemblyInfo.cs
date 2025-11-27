@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Parkhaus")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Personalverwaltung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fc34413fe32850fc722d88223af60bfca393f74")]
-[assembly: System.Reflection.AssemblyProductAttribute("Parkhaus")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Parkhaus")]
+[assembly: System.Reflection.AssemblyProductAttribute("Personalverwaltung")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Personalverwaltung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

@@ -1,0 +1,15 @@
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\bin\Debug\net8.0\Personalverwaltung.exe
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\bin\Debug\net8.0\Personalverwaltung.deps.json
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\bin\Debug\net8.0\Personalverwaltung.runtimeconfig.json
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\bin\Debug\net8.0\Personalverwaltung.dll
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\bin\Debug\net8.0\Personalverwaltung.pdb
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\Personalverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\Personalverwaltung.AssemblyInfoInputs.cache
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\Personalverwaltung.AssemblyInfo.cs
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\Personalverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\Personalverwaltung.sourcelink.json
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\Personalverwaltung.dll
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\refint\Personalverwaltung.dll
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\Personalverwaltung.pdb
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\Personalverwaltung.genruntimeconfig.cache
+C:\Users\milutz\Documents\Lutz_Grub\Unterricht\Unterricht\Kurse\25-3\SE-Grundlagen\SE-Grundlagen\Personalverwaltung\obj\Debug\net8.0\ref\Personalverwaltung.dll

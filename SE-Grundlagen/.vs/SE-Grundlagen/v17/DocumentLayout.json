@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\milutz\\Documents\\Lutz_Grub\\Unterricht\\Unterricht\\Kurse\\25-3\\SE-Grundlagen\\SE-Grundlagen\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B20807-B144-498A-95F7-303DCC728ABC}|Personalverwaltung\\Personalverwaltung.csproj|c:\\users\\milutz\\documents\\lutz_grub\\unterricht\\unterricht\\kurse\\25-3\\se-grundlagen\\se-grundlagen\\personalverwaltung\\mitabeiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B20807-B144-498A-95F7-303DCC728ABC}|Personalverwaltung\\Personalverwaltung.csproj|solutionrelative:personalverwaltung\\mitabeiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B20807-B144-498A-95F7-303DCC728ABC}|Personalverwaltung\\Personalverwaltung.csproj|c:\\users\\milutz\\documents\\lutz_grub\\unterricht\\unterricht\\kurse\\25-3\\se-grundlagen\\se-grundlagen\\personalverwaltung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B20807-B144-498A-95F7-303DCC728ABC}|Personalverwaltung\\Personalverwaltung.csproj|solutionrelative:personalverwaltung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B20807-B144-498A-95F7-303DCC728ABC}|Personalverwaltung\\Personalverwaltung.csproj|c:\\users\\milutz\\documents\\lutz_grub\\unterricht\\unterricht\\kurse\\25-3\\se-grundlagen\\se-grundlagen\\personalverwaltung\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B20807-B144-498A-95F7-303DCC728ABC}|Personalverwaltung\\Personalverwaltung.csproj|solutionrelative:personalverwaltung\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\milutz\\Documents\\Lutz_Grub\\Unterricht\\Unterricht\\Kurse\\25-3\\SE-Grundlagen\\SE-Grundlagen\\Personalverwaltung\\UI.cs",
+              "RelativeDocumentMoniker": "Personalverwaltung\\UI.cs",
+              "ToolTip": "C:\\Users\\milutz\\Documents\\Lutz_Grub\\Unterricht\\Unterricht\\Kurse\\25-3\\SE-Grundlagen\\SE-Grundlagen\\Personalverwaltung\\UI.cs",
+              "RelativeToolTip": "Personalverwaltung\\UI.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwFoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T09:06:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mitabeiter.cs",
+              "DocumentMoniker": "C:\\Users\\milutz\\Documents\\Lutz_Grub\\Unterricht\\Unterricht\\Kurse\\25-3\\SE-Grundlagen\\SE-Grundlagen\\Personalverwaltung\\Mitabeiter.cs",
+              "RelativeDocumentMoniker": "Personalverwaltung\\Mitabeiter.cs",
+              "ToolTip": "C:\\Users\\milutz\\Documents\\Lutz_Grub\\Unterricht\\Unterricht\\Kurse\\25-3\\SE-Grundlagen\\SE-Grundlagen\\Personalverwaltung\\Mitabeiter.cs",
+              "RelativeToolTip": "Personalverwaltung\\Mitabeiter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:06:27.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milutz\\Documents\\Lutz_Grub\\Unterricht\\Unterricht\\Kurse\\25-3\\SE-Grundlagen\\SE-Grundlagen\\Personalverwaltung\\Program.cs",
+              "RelativeDocumentMoniker": "Personalverwaltung\\Program.cs",
+              "ToolTip": "C:\\Users\\milutz\\Documents\\Lutz_Grub\\Unterricht\\Unterricht\\Kurse\\25-3\\SE-Grundlagen\\SE-Grundlagen\\Personalverwaltung\\Program.cs",
+              "RelativeToolTip": "Personalverwaltung\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:03:27.243Z",
+              "EditorCaption": ""
             }
           ]
         }
